@@ -1,0 +1,13 @@
+C:\Users\nickp\OneDrive\Área de Trabalho\Faculdade\UNIP\Linguagem de Prog\aula1304\Funcionarios\Funcionarios\bin\Debug\Funcionarios.exe.config
+C:\Users\nickp\OneDrive\Área de Trabalho\Faculdade\UNIP\Linguagem de Prog\aula1304\Funcionarios\Funcionarios\bin\Debug\Funcionarios.exe
+C:\Users\nickp\OneDrive\Área de Trabalho\Faculdade\UNIP\Linguagem de Prog\aula1304\Funcionarios\Funcionarios\bin\Debug\Funcionarios.pdb
+C:\Users\nickp\OneDrive\Área de Trabalho\Faculdade\UNIP\Linguagem de Prog\aula1304\Funcionarios\Funcionarios\bin\Debug\Mono.Security.dll
+C:\Users\nickp\OneDrive\Área de Trabalho\Faculdade\UNIP\Linguagem de Prog\aula1304\Funcionarios\Funcionarios\bin\Debug\Npgsql.dll
+C:\Users\nickp\OneDrive\Área de Trabalho\Faculdade\UNIP\Linguagem de Prog\aula1304\Funcionarios\Funcionarios\obj\Debug\Funcionarios.csprojAssemblyReference.cache
+C:\Users\nickp\OneDrive\Área de Trabalho\Faculdade\UNIP\Linguagem de Prog\aula1304\Funcionarios\Funcionarios\obj\Debug\Funcionarios.Funcionários.resources
+C:\Users\nickp\OneDrive\Área de Trabalho\Faculdade\UNIP\Linguagem de Prog\aula1304\Funcionarios\Funcionarios\obj\Debug\Funcionarios.Properties.Resources.resources
+C:\Users\nickp\OneDrive\Área de Trabalho\Faculdade\UNIP\Linguagem de Prog\aula1304\Funcionarios\Funcionarios\obj\Debug\Funcionarios.csproj.GenerateResource.cache
+C:\Users\nickp\OneDrive\Área de Trabalho\Faculdade\UNIP\Linguagem de Prog\aula1304\Funcionarios\Funcionarios\obj\Debug\Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\nickp\OneDrive\Área de Trabalho\Faculdade\UNIP\Linguagem de Prog\aula1304\Funcionarios\Funcionarios\obj\Debug\Funcionarios.csproj.CopyComplete
+C:\Users\nickp\OneDrive\Área de Trabalho\Faculdade\UNIP\Linguagem de Prog\aula1304\Funcionarios\Funcionarios\obj\Debug\Funcionarios.exe
+C:\Users\nickp\OneDrive\Área de Trabalho\Faculdade\UNIP\Linguagem de Prog\aula1304\Funcionarios\Funcionarios\obj\Debug\Funcionarios.pdb
